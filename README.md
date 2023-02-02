@@ -1,1 +1,1 @@
-# Analytics
+# Data Scientist. Аналитика. Начальный уровень
